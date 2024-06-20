@@ -1,0 +1,23 @@
+p{
+font-size: 20px;
+text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.text-pink {
+color: pink;
+
+}
+.text-skybule {
+    color: skyblue;
+
+}
+.text-decoration {
+
+    letter-spacing: 1.2em;
+}
