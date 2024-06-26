@@ -5,6 +5,11 @@ text-align: center;
 h1 {
     text-align: center;
 }
+
+h1 {
+    text-shadow: 1px 1px 2px gray;
+
+}
 h2{
     text-align: center;
 }
@@ -20,4 +25,36 @@ color: pink;
 .text-decoration {
 
     letter-spacing: 1.2em;
+    text-decoration: underline;
 }
+.color1{
+
+    color: skyblue
+}
+.color2{
+
+    color: pink
+}
+
+#parent p{
+
+font-weight: bold;
+
+}
+
+body{
+
+    font-family: "Arial","Meiryo", sans-serif;
+}
+
+h1{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+
+
+
